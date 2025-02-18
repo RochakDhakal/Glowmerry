@@ -1,0 +1,188 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "MINT GREEN",
+  "version": 3,
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "color": "#c8fb9b",
+          "name": "Primary",
+          "slug": "primary"
+        },
+        {
+          "color": "#366df7",
+          "name": "Secondary",
+          "slug": "secondary"
+        },
+        {
+          "color": "#75955a",
+          "name": "Terniary",
+          "slug": "terniary"
+        },
+        {
+          "color": "#1E262A",
+          "name": "Heading",
+          "slug": "heading"
+        },
+        {
+          "color": "#F2F2F2",
+          "name": "Background",
+          "slug": "background"
+        },
+        {
+          "color": "#FEFEFE",
+          "name": "Background Alternate",
+          "slug": "background-alt"
+        },
+        {
+          "color": "#D9D9D9",
+          "name": "Foreground",
+          "slug": "foreground"
+        },
+        {
+          "color": "#6A6A6A",
+          "name": "Foreground Alt",
+          "slug": "foreground-alt"
+        },
+        {
+          "color": "#505050",
+          "name": "Meta Color",
+          "slug": "meta-color"
+        },
+        {
+          "color": "#0000001A",
+          "name": "Border",
+          "slug": "border"
+        },
+        {
+          "color": "#FFFFFF1A",
+          "name": "Border Alt",
+          "slug": "border-alt"
+        },
+        {
+          "color": "#F9F9F9",
+          "name": "Light",
+          "slug": "Light"
+        },
+        {
+          "color": "#FFFFFF",
+          "name": "White",
+          "slug": "white"
+        },
+        {
+          "color": "#161E1D",
+          "name": "Dark",
+          "slug": "dark"
+        },
+        {
+          "color": "#1C2327",
+          "name": "Dark Alt",
+          "slug": "dark-alt"
+        },
+        {
+          "color": "#000000",
+          "name": "Black",
+          "slug": "black"
+        },
+        {
+          "color": "#FFFFFF00",
+          "name": "Transparent",
+          "slug": "transparent"
+        }
+      ],
+      "duotone": [
+        {
+          "colors": ["#c8fb9b", "#366df7"],
+          "slug": "primary-secondary",
+          "name": "Duo 1"
+        },
+        {
+          "colors": ["#366df7", "#c8fb9b"],
+          "slug": "secondary-primary",
+          "name": "Duo 2"
+        },
+        {
+          "colors": ["#c8fb9b", "#161E1D"],
+          "slug": "primary-dark",
+          "name": "Duo 3"
+        },
+        {
+          "colors": ["#161E1D", "#c8fb9b"],
+          "slug": "dark-primary",
+          "name": "Duo 4"
+        },
+        {
+          "colors": ["#c8fb9b", "#F9F9F9"],
+          "slug": "primary-light",
+          "name": "Duo 5"
+        },
+        {
+          "colors": ["#F9F9F9", "#c8fb9b"],
+          "slug": "light-primary",
+          "name": "Duo 6"
+        },
+        {
+          "colors": ["#366df7", "#161E1D"],
+          "slug": "secondary-dark",
+          "name": "Duo 7"
+        },
+        {
+          "colors": ["#161E1D", "#366df7"],
+          "slug": "dark-secondary",
+          "name": "Duo 8"
+        },
+        {
+          "colors": ["#366df7", "#F9F9F9"],
+          "slug": "secondary-light",
+          "name": "Duo 9"
+        },
+        {
+          "colors": ["#F9F9F9", "#366df7"],
+          "slug": "light-secondary",
+          "name": "Duo 10"
+        },
+        {
+          "colors": ["#c8fb9b", "#75955a"],
+          "slug": "primary-terniary",
+          "name": "Duo 11"
+        },
+        {
+          "colors": ["#75955a", "#c8fb9b"],
+          "slug": "terniary-primary",
+          "name": "Duo 12"
+        },
+        {
+          "colors": ["#75955a", "#366df7"],
+          "slug": "terniary-secondary",
+          "name": "Duo 13"
+        },
+        {
+          "colors": ["#366df7", "#75955a"],
+          "slug": "secondary-terniary",
+          "name": "Duo 14"
+        },
+        {
+          "colors": ["#161E1D", "#75955a"],
+          "slug": "dark-terniary",
+          "name": "Duo 15"
+        },
+        {
+          "colors": ["#75955a", "#161E1D"],
+          "slug": "terniary-dark",
+          "name": "Duo 16"
+        },
+        {
+          "colors": ["#75955a", "#F9F9F9"],
+          "slug": "terniary-light",
+          "name": "Duo 17"
+        },
+        {
+          "colors": ["#F9F9F9", "#75955a"],
+          "slug": "light-terniary",
+          "name": "Duo 18"
+        }
+      ]
+    }
+  }
+}

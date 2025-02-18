@@ -1,0 +1,245 @@
+.glowmerry-admin-notice {
+  background-color: #ffffff;
+  padding: 15px 30px 0px 30px;
+}
+.info-container {
+  display: flex;
+  width: 100%;
+}
+.info-content > p {
+  font-size: 14px;
+  font-weight: 400;
+}
+.info-content {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: 15px;
+}
+.theme-name > span {
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 3px;
+}
+.theme-display-image {
+  width: 30%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.glowmerry-admin-notice > .info-container > .info-content > .admin-btn > a {
+  outline: none;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  line-height: 20px;
+  font-size: 14px;
+  border-radius: 0px;
+}
+.admin-btn {
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+}
+.theme-display-image img {
+  /* margin-bottom: -12px; */
+  height: 209px;
+  width: 312px;
+}
+.glowmerry-admin-notice
+  > .info-container
+  > .info-content
+  > .admin-btn
+  > .info-button {
+  background: #2271b1;
+}
+.glowmerry-admin-notice
+  > .info-container
+  > .info-content
+  > .admin-btn
+  > .dismiss-notice {
+  background: rgb(247, 85, 85);
+}
+.glowmerry-admin-notice {
+  border-color: #2271b1;
+}
+.glowmerry-admin-notice .info-container > .info-content h5 {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+.glowmerry-admin-notice .info-container > .info-content h1 {
+  padding: 0px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.glowmerry-admin-notice #install-activate-button {
+  background-color: #2271b1;
+  color: #fff;
+}
+.glowmerry-admin-notice #install-activate-button:hover,
+.glowmerry-admin-notice .button.admin-button.info-button:hover {
+  background: #02c392;
+  border-color: #02c392;
+  color: #fff;
+}
+.glowmerry-admin-notice .button.admin-button.info-button {
+  background: #2271b1;
+  color: #ffffff;
+}
+.glowmerry-admin-notice .admin-button.dismiss-notice.btn-notice-dismiss {
+  color: #a4a4a7;
+  display: inline-block;
+  margin: 5px;
+}
+.glowmerry-admin-notice .admin-button.dismiss-notice.btn-notice-dismiss:hover {
+  color: #d63638;
+}
+.glowmerry-admin-notice .notice-text {
+  display: inline-block;
+  width: 100%;
+  margin: 0 0 15px;
+}
+.dashboard-about-glowmerry {
+  padding: 30px;
+  background: #fff;
+  box-sizing: border-box;
+  width: 98.5%;
+  margin: 20px 0 0 0;
+}
+.dashboard-about-glowmerry .half-col {
+  width: 50%;
+  display: inline-block;
+}
+ul.required-plugin-list > li {
+  list-style: auto;
+  margin: 0px 0 10px 14px !important;
+  font-size: 14px;
+  font-weight: 400;
+}
+ul.glowmerry-required-plugin > li:before {
+  margin-right: 10px;
+}
+ul.required-plugin-list > h1 {
+  font-size: 16px;
+  font-weight: 600 !important;
+  margin-bottom: 8px;
+  padding: 0;
+}
+
+.dashboard-about-glowmerry .featured-list {
+  display: flex;
+  grid-gap: 30px;
+}
+.dashboard-about-glowmerry .half-col ul ul {
+  margin: 10px 0 20px;
+  padding: 0 0 0 30px;
+}
+.dashboard-about-glowmerry .half-col ul ul li,
+.dashboard-about-glowmerry .half-col.pro-features li {
+  position: relative;
+}
+.dashboard-about-glowmerry .half-col ul ul li:before,
+.dashboard-about-glowmerry .half-col.pro-features li:before {
+  content: "\2713";
+  background: #bdbfc2;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  left: -20px;
+  top: 2px;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: center;
+  border-radius: 20px;
+  color: #fff;
+}
+.dashboard-about-glowmerry .half-col.pro-features li {
+  font-size: 14px;
+  font-weight: 600;
+  margin: 10px 0;
+}
+.dashboard-about-glowmerry .half-col.pro-features li:before {
+  background: #04cf9c;
+}
+.dashboard-about-glowmerry .half-col.pro-features ul {
+  margin: 0;
+  padding: 0 0 0 18px;
+}
+
+.dashboard-about-glowmerry .upgrade-btn.button {
+  text-transform: uppercase;
+  background: #4a46f3;
+  border-color: #4a46f3;
+  color: #fff;
+  display: inline-block;
+  margin-top: 21px;
+}
+.dashboard-about-glowmerry .upgrade-btn.button:hover {
+  background: #f39446;
+  border-color: #f39446;
+}
+.glowmerry-admin-notice .info-container > .info-content h3,
+.dashboard-about-glowmerry h3,
+.glowmerry-admin-notice
+  .info-container
+  > .info-content
+  .glowmerry-required-plugin
+  li
+  h4,
+.dashboard-about-glowmerry .glowmerry-required-plugin li h4 {
+  margin: 0;
+}
+
+.glowmerry-admin-notice
+  .info-container
+  > .info-content
+  .glowmerry-required-plugin
+  li,
+.dashboard-about-glowmerry .glowmerry-required-plugin li {
+  margin: 5px 0;
+}
+.glowmerry-admin-notice
+  .info-container
+  > .info-content
+  .glowmerry-required-plugin,
+.dashboard-about-glowmerry .glowmerry-required-plugin {
+  margin: 10px 0 25px;
+}
+.dashboard-about-glowmerry .glowmerry-baisc-guideline {
+  margin: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+.dashboard-about-glowmerry .glowmerry-baisc-guideline .featured-box {
+  padding: 5px 25px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.12);
+  border-radius: 6px;
+  width: 49%;
+  float: left;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+.dashboard-about-glowmerry h3.glowmerry-baisc-guideline-header {
+  width: 100%;
+  display: inline-block;
+  margin: 20px 0 0;
+}
+.dashboard-about-glowmerry
+  .glowmerry-baisc-guideline
+  .featured-box:nth-child(2n + 2) {
+  margin-left: 2%;
+}
+.dashboard-about-glowmerry .glowmerry-baisc-guideline .featured-box li strong {
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+.dashboard-about-glowmerry h3 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
