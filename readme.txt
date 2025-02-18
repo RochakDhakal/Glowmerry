@@ -27,7 +27,7 @@ GlowMerry is a stylish and feature-rich eCommerce theme designed for modern onli
 
 == Changelog ==
 
-= 1.0.0 - ,3 Feb 2025 =
+= 1.0.0 - 3 Feb 2025 =
 * Initial Release
 
 ==Copyright==
